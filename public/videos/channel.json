@@ -1,0 +1,42 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "Yy-iD1NAwAFnPBVni9gAQUXkirY",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "QW4o7FCYvuM7JsSrhqFoXYf-nfM",
+      "id": "UCgdj5bL5_Il2tqsQ7J4k6zw",
+      "snippet": {
+        "title": "ONF OFFICIAL",
+        "description": "WM ENTERTAINMENT GROUP '온앤오프 (ONF)'",
+        "customUrl": "@onf_official",
+        "publishedAt": "2017-07-13T14:06:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/5IJcH1DX8GUSjNl0kADoVYu-TwOcWD2g-nP3lsDBRuTvX6pRBwa5LQ5smi0OAjLAT4xDV5ZOYg=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/5IJcH1DX8GUSjNl0kADoVYu-TwOcWD2g-nP3lsDBRuTvX6pRBwa5LQ5smi0OAjLAT4xDV5ZOYg=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/5IJcH1DX8GUSjNl0kADoVYu-TwOcWD2g-nP3lsDBRuTvX6pRBwa5LQ5smi0OAjLAT4xDV5ZOYg=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ONF OFFICIAL",
+          "description": "WM ENTERTAINMENT GROUP '온앤오프 (ONF)'"
+        }
+      }
+    }
+  ]
+}
